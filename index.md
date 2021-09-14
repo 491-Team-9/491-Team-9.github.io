@@ -3,6 +3,7 @@
 This is a simple Covid tracking application that allows users to specify for the current day, whether or not they are experiencing Covid symptoms.
 
 You can find the site [here](https://491-team-9.meteorapp.com/#/).
+
 The source code can be found [here](https://github.com/491-Team-9/covid-application).
 
 ---
