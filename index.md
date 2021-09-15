@@ -24,6 +24,7 @@ This page will be shown when a user visits the site.
 
 ## Home Page
 This page is shown once a user signs in.
+
 ![home page](./images/homepage.JPG)
 
 ---
@@ -36,12 +37,18 @@ This page allows a user to specify their covid status for the day, which can be 
 ## Sign in Page
 This page allows users to sign in, to be able to use the application.
 
+![sign in page](./images/signin.JPG)
+
 ---
 
 ## Sign up Page
 This page allows a new user to create an account.
 
+![signup page](./images/signup.JPG)
+
 ---
 
 ## Sign out Page
 This page is shown once a user signs out.
+
+![sign out page](./images/signout.JPG)
