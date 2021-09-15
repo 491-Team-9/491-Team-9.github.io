@@ -24,6 +24,7 @@ This page will be shown when a user visits the site.
 
 ## Home Page
 This page is shown once a user signs in.
+![home page](./images/homepage.JPG)
 
 ---
 
