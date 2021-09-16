@@ -19,6 +19,7 @@ The source code can be found [here](https://github.com/491-Team-9/covid-applicat
 
 ## Landing Page
 This page will be shown when a user visits the site.
+![landing](./images/landing-page.png)
 
 ---
 
@@ -31,6 +32,8 @@ This page is shown once a user signs in.
 
 ## Check in Page
 This page allows a user to specify their covid status for the day, which can be done multiple times a day.
+
+![symptoms](./images/symptoms-page.png)
 
 ---
 
