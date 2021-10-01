@@ -37,6 +37,13 @@ This page allows a user to specify their covid status for the day, which can be 
 
 ---
 
+## Vaccine Page
+This page allows a user to enter their vaccine shot information.
+
+![vaccine page](./images/vaccinePage.JPG)
+
+---
+
 ## Sign in Page
 This page allows users to sign in, to be able to use the application.
 
