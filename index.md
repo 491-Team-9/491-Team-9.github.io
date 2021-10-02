@@ -44,6 +44,13 @@ This page allows a user to enter their vaccine shot information.
 
 ---
 
+## Check in History Page
+This page allows a user to see their check in history.
+
+![history page](./images/history-page.png)
+
+---
+
 ## Sign in Page
 This page allows users to sign in, to be able to use the application.
 
