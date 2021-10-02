@@ -19,28 +19,28 @@ The source code can be found [here](https://github.com/491-Team-9/covid-applicat
 
 ## Landing Page
 This page will be shown when a user visits the site.
-![landing](./images/landing-page.png)
+![landing](./images/landingPage.png)
 
 ---
 
 ## Home Page
 This page is shown once a user signs in.
 
-![home page](./images/homepage.JPG)
+![home page](./images/homepage.png)
 
 ---
 
 ## Check in Page
 This page allows a user to specify their covid status for the day, which can be done multiple times a day.
 
-![symptoms](./images/symptoms-page.png)
+![symptoms](./images/checkIn-page.png)
 
 ---
 
 ## Vaccine Page
 This page allows a user to enter their vaccine shot information.
 
-![vaccine page](./images/vaccinePage.JPG)
+![vaccine page](./images/vaccine-page.png)
 
 ---
 
