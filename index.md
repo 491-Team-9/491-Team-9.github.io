@@ -19,6 +19,7 @@ The source code can be found [here](https://github.com/491-Team-9/covid-applicat
 
 ## Landing Page
 This page will be shown when a user visits the site.
+
 ![landing](./images/landingPage.png)
 
 ---
