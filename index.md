@@ -29,6 +29,11 @@ This page is shown once a user signs in.
 
 ![home page](./images/homepage.png)
 
+The page is updated as the user submits information.
+
+![home page](./images/home-page-with-card.png)
+
+
 ---
 
 ## Check in Page
@@ -39,9 +44,9 @@ This page allows a user to specify their covid status for the day, which can be 
 ---
 
 ## Vaccine Page
-This page allows a user to enter their vaccine shot information.
+This page allows a user to enter their vaccine shot information. They can also upload a photo of their vaccine card to the database. 
 
-![vaccine page](./images/vaccine-page.png)
+![vaccine page](./images/upload-card.png)
 
 ---
 
