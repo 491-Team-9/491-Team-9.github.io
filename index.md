@@ -9,10 +9,10 @@ The source code can be found [here](https://github.com/491-Team-9/covid-applicat
 
 ## Team members
 
-- Joshua Hartmann
+- [Joshua Hartmann](https://joshuahartmann.github.io/)
 - [Keith Okuna](https://okuna.github.io/covid-project)
-- Louella Caraang
-- Sydney Chun
+- [Louella Caraang](https://lcaraang.github.io/)
+- [Sydney Chun](https://sydney-c7.github.io/)
 
 ---
 
